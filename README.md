@@ -1,5 +1,12 @@
-leo-senate-model
-================
+## Leo Senate Model (Python)
+
+Python implemenation of the NYTime's Senate Model.
+
+- [article](http://www.nytimes.com/newsgraphics/2014/senate-model/)
+- [Github](https://github.com/TheUpshot/leo-senate-model)
+
+The original README follows:
+
 
 Leo combines polls with other information to predict how many Senate races Democrats and Republicans will win in 2014.
 
@@ -140,3 +147,5 @@ Brief instructions
 | mead-treadwell    | Mead     | Treadwell |
 
 
+=======
+>>>>>>> bc9a7bd... update readme and layout
